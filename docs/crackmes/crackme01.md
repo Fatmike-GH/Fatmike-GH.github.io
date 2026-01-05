@@ -8,7 +8,7 @@ nav_order: 4
 
 ## Screenshot
 
-<img src="images/crackme01.png" height="200">
+<img src="/images/crackme01.png" height="200">
 
 ## Description
 

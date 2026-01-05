@@ -13,9 +13,8 @@ In addition, the blog features community-contributed solutions to crackmes, show
 **My Profiles**
 
 <img src="./images/github.png" alt="Icon" width="32" height="32" style="vertical-align:middle;" /> [github.com](https://https://github.com/Fatmike-GH)  
+
 <img src="./images/crackmesone.png" alt="Icon" width="32" height="32" style="vertical-align:middle;" /> [crackmes.one](https://crackmes.one/user/Fatmike)  
+
 <img src="./images/crackmyapp.png" alt="Icon" width="32" height="32" style="vertical-align:middle;" /> [crackmy.app](https://crackmy.app/users/Fatmike)  
 
-![Icon](./images/github.png) [github.com/Fatmike-GH](https://github.com/Fatmike-GH)
-![Icon](./images/crackmesone.png) [crackmes.one/Fatmike](https://crackmes.one/user/Fatmike)
-![Icon](./images/crackmyapp.png) [crackmy.app/Fatmike](https://crackmy.app/users/Fatmike)

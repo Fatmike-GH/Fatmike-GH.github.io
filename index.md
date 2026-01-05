@@ -12,7 +12,7 @@ The blog also shares my crackmes, featuring community solutions that highlight d
 
 **My Profiles**
 
-<img src="./images/github.png" alt="Icon" width="32" height="32" style="vertical-align:middle;" /> [github.com/Fatmike-GH](https://https://github.com/Fatmike-GH)  
+<img src="./images/github.png" alt="Icon" width="32" height="32" style="vertical-align:middle;" /> [github.com/Fatmike-GH](https://github.com/Fatmike-GH)  
 
 <img src="./images/crackmesone.png" alt="Icon" width="32" height="32" style="vertical-align:middle;" /> [crackmes.one/Fatmike](https://crackmes.one/user/Fatmike)  
 

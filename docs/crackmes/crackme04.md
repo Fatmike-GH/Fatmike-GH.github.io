@@ -15,6 +15,7 @@ nav_order: 7
 | **Difficulty**   | Intermediate-Advanced      |                                                                                         |
 | **Features**     | Anti Debug                 |                                                                                         |
 | **OS**           | Tested on Windows 10       |                                                                                         |
+| **Language**     | C/C++                      |                                                                                         |
 
 ## Screenshot
 

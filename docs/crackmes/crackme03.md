@@ -16,6 +16,7 @@ nav_order: 6
 | **Features**     | Anti Debug                 | Designed for OllyDbg                                                                    |
 |                  |                            | Trick was [fixed](https://github.com/x64dbg/x64dbg/issues/1364) for x64Dbg Oct 5, 2023  |
 | **OS**           | Tested on Windows 10       |                                                                                         |
+| **Language**     | C/C++                      |                                                                                         |
 
 ## Screenshot
 

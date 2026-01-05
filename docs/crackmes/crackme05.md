@@ -15,6 +15,7 @@ nav_order: 8
 | **Difficulty**   | Intermediate-Advanced      |                                                                                         |
 | **Features**     | Anti Debug                 | Has to be started from Windows Explorer                                                 |
 | **OS**           | Tested on Windows 10       |                                                                                         |
+| **Language**     | C/C++                      |                                                                                         |
 
 ## Screenshot
 

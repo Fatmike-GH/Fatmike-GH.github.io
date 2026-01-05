@@ -25,6 +25,7 @@ nav_order: 10
 |                  | Encrypted strings          |                                                                                         |
 |                  | Data Compression           |                                                                                         |
 | **OS**           | Tested on Windows 10       |                                                                                         |
+| **Language**     | C/C++                      |                                                                                         |
 
 ## Screenshot
 

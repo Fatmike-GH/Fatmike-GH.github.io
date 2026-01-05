@@ -16,6 +16,7 @@ nav_order: 11
 | **Features**     | Anti Debug                        |                                                   |
 |                  | IPC (Inter Process Communication) | A basic self made IPC                             |
 | **OS**           | Tested on Windows 10              |                                                   |
+| **Language**     | C/C++                             |                                                   |
 
 ## Screenshot
 

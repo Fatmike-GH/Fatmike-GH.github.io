@@ -15,6 +15,7 @@ nav_order: 9
 | **Difficulty**   | Intermediate               |                                                                                                                                                                 |
 | **Features**     | Anti Debug                 | If there is another active debugger running, the crackme will not work as expected. Only use one debugger for reversing the crackme, close ALL other debuggers. |
 | **OS**           | Tested on Windows 10       |                                                                                                                                                                 |
+| **Language**     | C/C++                      |                                                                                                                                                                 |
 
 ## Screenshot
 

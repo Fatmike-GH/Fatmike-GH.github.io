@@ -3,3 +3,12 @@ description: Gives an overview about my github projects and crackmes
 theme: just-the-docs
 color_scheme: dark
 url: https://Fatmike-GH.github.io
+repository: Fatmike-GH/Fatmike-GH.github.io # for github-metadata
+permalink: pretty
+
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"

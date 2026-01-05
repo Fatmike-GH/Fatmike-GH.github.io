@@ -8,12 +8,12 @@ nav_order: 4
 
 ## Description
 
-|                      |                             | Notes               |
-|----------------------|-----------------------------|---------------------|
-| **Release Date**         | 2005                        | Remake in 2024      |
-| **Difficulty**           | Beginner to Intermediate    |                     |
-| **Features**             | Anti Patch                  | Self Modifying Code |
-| **Goal**                 | Find valid serial or patch  |                     |
+|                  |                            | Notes               |
+|------------------|----------------------------|---------------------|
+| **Release Date** | 2005                       | Remake in 2024      |
+| **Goal**         | Find valid serial or patch |                     |
+| **Difficulty**   | Beginner to Intermediate   |                     |
+| **Features**     | Anti Patch                 | Self Modifying Code |
 
 ## Screenshot
 

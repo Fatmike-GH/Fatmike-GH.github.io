@@ -5,6 +5,8 @@ nav_order: 2
 
 # My Github Projects
 
+Welcome! This site showcases my GitHub projects, focused on learning and experimentation rather than polished apps or libraries. They’re a great starting point if you want to explore these concepts or build your own projects.  
+
 | Name                                 | Description                                                                                                                                                                                                                            | Link                                               |
 |--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
 | Fatmike's PE Loader (Manual Mapper)  | A Windows PE loader / manual mapper for executables (x86 and x64) with full TLS (Thread Local Storage) support.                                                                                                                        | [GitHub](https://github.com/Fatmike-GH/PELoader)             |

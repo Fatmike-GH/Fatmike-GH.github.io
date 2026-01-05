@@ -12,7 +12,7 @@ nav_order: 11
 |------------------|-----------------------------------|---------------------------------------------------|
 | **Release Year** | 2025                              | Special Event by *crackmy.app* : Subprocess Party |
 | **Type**         | KeygenMe                          |                                                   |
-| **Difficulty**   | Intermediate-Advanced             |                                                   |
+| **Difficulty**   | Intermediate to Advanced          |                                                   |
 | **Features**     | Anti Debug                        |                                                   |
 |                  | IPC (Inter Process Communication) | A basic self made IPC                             |
 | **OS**           | Tested on Windows 10              |                                                   |

@@ -2,7 +2,8 @@ title: Fatmike-GH Blog
 description: Gives an overview about my github projects and crackmes
 theme: just-the-docs
 color_scheme: light
-url: https://Fatmike-GH.github.io
+url: https://fatmike-gh.github.io
+baseurl: ""
 repository: Fatmike-GH/Fatmike-GH.github.io # for github-metadata
 permalink: pretty
 

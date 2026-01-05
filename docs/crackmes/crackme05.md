@@ -1,5 +1,5 @@
 ---
-title: Fatmike's Crackme #5
+title: Fatmike's Crackme 05
 parent: Crackmes
 nav_order: 8
 ---

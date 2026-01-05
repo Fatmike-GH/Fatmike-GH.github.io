@@ -6,10 +6,6 @@ nav_order: 4
 
 # Fatmike's Crackme #1
 
-## Screenshot
-
-<img src="/images/crackme01.png" height="200">
-
 ## Description
 
 | Fatmike's Crackme #1 |                             | Notes               |
@@ -18,6 +14,10 @@ nav_order: 4
 | Difficulty           | Beginner to Intermediate    |                     |
 | Features             | Anti Patch                  | Self Modifying Code |
 | Goal                 | Find valid serial or patch  |                     |
+
+## Screenshot
+
+<img src="/images/crackme01.png" height="200">
 
 ## Solutions
 

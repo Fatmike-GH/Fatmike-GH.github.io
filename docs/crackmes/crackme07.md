@@ -11,7 +11,7 @@ nav_order: 10
 |                  |                            | Notes                                                                                   |
 |------------------|----------------------------|-----------------------------------------------------------------------------------------|
 | **Release Year** | 2025                       |                                                                                         |
-| **Type**         | Unpackme                   |                                                                                         |
+| **Type**         | UnpackMe                   |                                                                                         |
 | **Difficulty**   | Advanced-Expert            |                                                                                         |
 | **Features**     | Anti Debug                 |                                                                                         |
 |                  | Anti Tamper                |                                                                                         |

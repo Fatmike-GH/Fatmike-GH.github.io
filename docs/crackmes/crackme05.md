@@ -11,7 +11,7 @@ nav_order: 8
 |                  |                            | Notes                                                                                   |
 |------------------|----------------------------|-----------------------------------------------------------------------------------------|
 | **Release Year** | 2024                       |                                                                                         |
-| **Type**         | Unpackme                   |                                                                                         |
+| **Type**         | UnpackMe                   |                                                                                         |
 | **Difficulty**   | Intermediate-Advanced      |                                                                                         |
 | **Features**     | Anti Debug                 | Has to be started from Windows Explorer                                                 |
 | **OS**           | Tested on Windows 10       |                                                                                         |

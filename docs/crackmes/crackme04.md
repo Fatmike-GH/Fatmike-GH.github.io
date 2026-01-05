@@ -11,7 +11,7 @@ nav_order: 7
 |                  |                            | Notes                                                                                   |
 |------------------|----------------------------|-----------------------------------------------------------------------------------------|
 | **Release Year** | 2023                       |                                                                                         |
-| **Type**         | Unpackme                   |                                                                                         |
+| **Type**         | UnpackMe                   |                                                                                         |
 | **Difficulty**   | Intermediate-Advanced      |                                                                                         |
 | **Features**     | Anti Debug                 |                                                                                         |
 | **OS**           | Tested on Windows 10       |                                                                                         |

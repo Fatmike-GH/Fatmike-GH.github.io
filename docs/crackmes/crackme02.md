@@ -11,7 +11,7 @@ nav_order: 5
 |                  |                            | Notes               |
 |------------------|----------------------------|---------------------|
 | **Release Year** | 2005                       | Remake in 2024      |
-| **Goal**         | Keygen                     |                     |
+| **Type**         | KeygenMe                   |                     |
 | **Difficulty**   | Beginner to Intermediate   |                     |
 | **Features**     | Anti Patch                 | Self Modifying Code |
 | **OS**           | Tested on Windows 10       |                     |

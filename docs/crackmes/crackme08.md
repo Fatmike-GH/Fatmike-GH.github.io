@@ -30,8 +30,6 @@ nav_order: 11
 
 ## Download the Crackme
 
-You can download my crackmes from the following sites:
-
-<img src="/images/crackmesone.png" alt="Icon" width="32" height="32" style="vertical-align:middle;" /> [crackmes.one/Fatmike](https://crackmes.one/user/Fatmike)  
+You can download this crackme here:
 
 <img src="/images/crackmyapp.png" alt="Icon" width="32" height="32" style="vertical-align:middle;" /> [crackmy.app/Fatmike](https://crackmy.app/users/Fatmike)  

@@ -13,6 +13,6 @@ Welcome! Here you can explore all my **crackmes** and view the **solutions share
 
 You can download my crackmes from the following sites:
 
-<img src="./images/crackmesone.png" alt="Icon" width="32" height="32" style="vertical-align:middle;" /> [crackmes.one/Fatmike](https://crackmes.one/user/Fatmike)  
+<img src="../../images/crackmesone.png" alt="Icon" width="32" height="32" style="vertical-align:middle;" /> [crackmes.one/Fatmike](https://crackmes.one/user/Fatmike)  
 
-<img src="./images/crackmyapp.png" alt="Icon" width="32" height="32" style="vertical-align:middle;" /> [crackmy.app/Fatmike](https://crackmy.app/users/Fatmike)  
+<img src="../../images/crackmyapp.png" alt="Icon" width="32" height="32" style="vertical-align:middle;" /> [crackmy.app/Fatmike](https://crackmy.app/users/Fatmike)  

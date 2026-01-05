@@ -5,7 +5,7 @@ nav_order: 3
 
 # Fatmike's Crackmes
 
-*Welcome!* Here you can explore all my **crackmes** and view the **solutions shared by the community**. Feel free to try them out and learn from the community solutions!  
+Here you can explore all my **crackmes** and view the **solutions shared by the community**. Feel free to try them out and learn from the community solutions!  
 
 > **Note:** The crackmes are sorted by **time of creation**, not by difficulty.
 

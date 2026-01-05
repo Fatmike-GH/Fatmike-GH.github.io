@@ -8,12 +8,12 @@ nav_order: 4
 
 ## Description
 
-| Fatmike's Crackme #1 |                             | Notes               |
+|                      |                             | Notes               |
 |----------------------|-----------------------------|---------------------|
-| Release Date         | 2005                        | Remake in 2024      |
-| Difficulty           | Beginner to Intermediate    |                     |
-| Features             | Anti Patch                  | Self Modifying Code |
-| Goal                 | Find valid serial or patch  |                     |
+| **Release Date**         | 2005                        | Remake in 2024      |
+| **Difficulty**           | Beginner to Intermediate    |                     |
+| **Features**             | Anti Patch                  | Self Modifying Code |
+| **Goal**                 | Find valid serial or patch  |                     |
 
 ## Screenshot
 

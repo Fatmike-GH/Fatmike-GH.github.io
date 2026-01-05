@@ -10,11 +10,11 @@ This site provides an overview of my GitHub projects and reverse engineering cra
 
 In addition, the blog features community-contributed solutions to crackmes, showcasing different approaches and techniques for solving each challenge. The goal is to create a space where you can explore, learn, and understand reverse engineering and programming from multiple perspectives.
 
-*My Profiles:*
+**My Profiles**
 
-<img src="./images/github.png" alt="Icon" width="20" height="20" style="vertical-align:middle;" /> [github.com](https://https://github.com/Fatmike-GH)
-<img src="./images/crackmesone.png" alt="Icon" width="20" height="20" style="vertical-align:middle;" /> [crackmes.one](https://crackmes.one/user/Fatmike)
-<img src="./images/crackmyapp.png" alt="Icon" width="20" height="20" style="vertical-align:middle;" /> [crackmy.app](https://crackmy.app/users/Fatmike)
+<img src="./images/github.png" alt="Icon" width="32" height="32" style="vertical-align:middle;" /> [github.com](https://https://github.com/Fatmike-GH)  
+<img src="./images/crackmesone.png" alt="Icon" width="32" height="32" style="vertical-align:middle;" /> [crackmes.one](https://crackmes.one/user/Fatmike)  
+<img src="./images/crackmyapp.png" alt="Icon" width="32" height="32" style="vertical-align:middle;" /> [crackmy.app](https://crackmy.app/users/Fatmike)  
 
 ![Icon](./images/github.png) [github.com](https://https://github.com/Fatmike-GH)
 ![Icon](./images/crackmesone.png) [crackmes.one](https://crackmes.one/user/Fatmike)

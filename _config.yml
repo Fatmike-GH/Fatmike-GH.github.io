@@ -12,3 +12,10 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+      
+      
+google_site_verification: "xf3Tgi-GcDNgMSwliFL6VAN_EynQi3fJONex42wOfgc"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

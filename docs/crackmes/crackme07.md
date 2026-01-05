@@ -26,6 +26,7 @@ nav_order: 10
 |                  | Data Compression           |                                                                                         |
 | **OS**           | Tested on Windows 10       |                                                                                         |
 | **Language**     | C/C++                      |                                                                                         |
+| **Arch**         | x86                        |                                                                                         |
 
 ## Screenshot
 

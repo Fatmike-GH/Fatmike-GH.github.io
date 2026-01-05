@@ -8,14 +8,15 @@ nav_order: 8
 
 ## Description
 
-|                  |                            | Notes                                                                                   |
-|------------------|----------------------------|-----------------------------------------------------------------------------------------|
-| **Release Year** | 2024                       |                                                                                         |
-| **Type**         | UnpackMe                   |                                                                                         |
-| **Difficulty**   | Intermediate to Advanced   |                                                                                         |
-| **Features**     | Anti Debug                 | Has to be started from Windows Explorer                                                 |
-| **OS**           | Tested on Windows 10       |                                                                                         |
-| **Language**     | C/C++                      |                                                                                         |
+|                  |                            | Notes                                            |
+|------------------|----------------------------|--------------------------------------------------|
+| **Release Year** | 2024                       |                                                  |
+| **Type**         | UnpackMe                   |                                                  |
+| **Difficulty**   | Intermediate to Advanced   |                                                  |
+| **Features**     | Anti Debug                 | Has to be started from Windows Explorer          |
+| **OS**           | Tested on Windows 10       |                                                  |
+| **Language**     | C/C++                      |                                                  |
+| **Arch**         | x86                        |                                                  |
 
 ## Screenshot
 

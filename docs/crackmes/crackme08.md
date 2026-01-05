@@ -17,6 +17,7 @@ nav_order: 11
 |                  | IPC (Inter Process Communication) | A basic self made IPC                             |
 | **OS**           | Tested on Windows 10              |                                                   |
 | **Language**     | C/C++                             |                                                   |
+| **Arch**         | x86                               |                                                   |
 
 ## Screenshot
 

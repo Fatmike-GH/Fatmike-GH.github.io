@@ -16,6 +16,7 @@ nav_order: 4
 | **Features**     | Anti Patch                 | Self Modifying Code |
 | **OS**           | Tested on Windows 10       |                     |
 | **Language**     | C/C++                      |                     |
+| **Arch**         | x86                        |                     |
 
 ## Screenshot
 

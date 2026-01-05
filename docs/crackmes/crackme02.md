@@ -14,6 +14,7 @@ nav_order: 5
 | **Goal**         | Keygen                     |                     |
 | **Difficulty**   | Beginner to Intermediate   |                     |
 | **Features**     | Anti Patch                 | Self Modifying Code |
+| **OS**           | Tested on Windows 10       |                     |
 
 ## Screenshot
 

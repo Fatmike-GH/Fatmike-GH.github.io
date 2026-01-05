@@ -4,4 +4,34 @@ parent: Crackmes
 nav_order: 11
 ---
 
-Fatmike's Crackme #8
+# Fatmike's Crackme #8
+
+## Description
+
+|                  |                                   | Notes                                             |
+|------------------|-----------------------------------|---------------------------------------------------|
+| **Release Year** | 2025                              | Special Event by *crackmy.app* : Subprocess Party |
+| **Type**         | Keygenme                          |                                                   |
+| **Difficulty**   | Intermediate-Advanced             |                                                   |
+| **Features**     | Anti Debug                        |                                                   |
+|                  | IPC (Inter Process Communication) | A basic self made IPC                             |
+| **OS**           | Tested on Windows 10              |                                                   |
+
+## Screenshot
+
+<img src="/images/crackme08.png" height="200">
+
+## Solutions
+
+| Solver               | Year | Download                                                                                   |
+|----------------------|------|--------------------------------------------------------------------------------------------|
+| CZ-DannyK            | 2025 | [crackmy.app](https://crackmy.app/crackmes/subprocess-party-fatmike-s-crackme-8-2025-5033) |
+| obaw                 | 2025 | [crackmy.app](https://crackmy.app/crackmes/subprocess-party-fatmike-s-crackme-8-2025-5033) |
+
+## Download the Crackme
+
+You can download my crackmes from the following sites:
+
+<img src="/images/crackmesone.png" alt="Icon" width="32" height="32" style="vertical-align:middle;" /> [crackmes.one/Fatmike](https://crackmes.one/user/Fatmike)  
+
+<img src="/images/crackmyapp.png" alt="Icon" width="32" height="32" style="vertical-align:middle;" /> [crackmy.app/Fatmike](https://crackmy.app/users/Fatmike)  

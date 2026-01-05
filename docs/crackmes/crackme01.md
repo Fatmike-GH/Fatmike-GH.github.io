@@ -10,7 +10,7 @@ nav_order: 4
 
 |                  |                            | Notes               |
 |------------------|----------------------------|---------------------|
-| **Release Date** | 2005                       | Remake in 2024      |
+| **Release Year** | 2005                       | Remake in 2024      |
 | **Goal**         | Find valid serial or patch |                     |
 | **Difficulty**   | Beginner to Intermediate   |                     |
 | **Features**     | Anti Patch                 | Self Modifying Code |

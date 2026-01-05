@@ -5,7 +5,7 @@ nav_order: 2
 
 # My Github Projects
 
-This site showcases my **GitHub projects**, focused on learning and experimentation rather than polished apps or libraries. They’re a great starting point if you want to explore these concepts or build your own projects.  
+This site showcases my **GitHub projects**, primarily centered on learning, experimentation, and focused implementations. They’re a great starting point if you want to explore these concepts or build your own projects.  
 
 **My Github**
 

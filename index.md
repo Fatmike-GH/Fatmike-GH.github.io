@@ -12,9 +12,9 @@ In addition, the blog features community-contributed solutions to crackmes, show
 
 **My Profiles**
 
-<img src="./images/github.png" alt="Icon" width="32" height="32" style="vertical-align:middle;" /> [github.com](https://https://github.com/Fatmike-GH)  
+<img src="./images/github.png" alt="Icon" width="32" height="32" style="vertical-align:middle;" /> [github.com/Fatmike-GH](https://https://github.com/Fatmike-GH)  
 
-<img src="./images/crackmesone.png" alt="Icon" width="32" height="32" style="vertical-align:middle;" /> [crackmes.one](https://crackmes.one/user/Fatmike)  
+<img src="./images/crackmesone.png" alt="Icon" width="32" height="32" style="vertical-align:middle;" /> [crackmes.one/Fatmike](https://crackmes.one/user/Fatmike)  
 
-<img src="./images/crackmyapp.png" alt="Icon" width="32" height="32" style="vertical-align:middle;" /> [crackmy.app](https://crackmy.app/users/Fatmike)  
+<img src="./images/crackmyapp.png" alt="Icon" width="32" height="32" style="vertical-align:middle;" /> [crackmy.app/Fatmike](https://crackmy.app/users/Fatmike)  
 

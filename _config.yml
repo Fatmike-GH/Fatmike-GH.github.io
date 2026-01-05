@@ -12,3 +12,7 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

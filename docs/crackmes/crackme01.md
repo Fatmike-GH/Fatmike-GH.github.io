@@ -12,11 +12,11 @@ nav_order: 4
 
 ## Description
 
-|              | Fatmike's Crackme #1  | Notes               |
-|--------------|-----------------------|---------------------|
-| Release Date | 2005                  | Remake in 2024      |
-| Difficulty   | Beginner to Advanced  |                     |
-| Features     | Anti Patch            | Self Modifying Code |
+| Fatmike's Crackme #1 |                           | Notes               |
+|----------------------|---------------------------|---------------------|
+| Release Date         | 2005                      | Remake in 2024      |
+| Difficulty           | Beginner to Intermediate  |                     |
+| Features             | Anti Patch                | Self Modifying Code |
 
 ## Solutions
 

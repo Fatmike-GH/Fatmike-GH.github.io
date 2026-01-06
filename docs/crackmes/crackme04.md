@@ -8,15 +8,15 @@ nav_order: 7
 
 ## Description
 
-|                  |                            | Notes      |
-|------------------|----------------------------|------------|
-| **Release Year** | 2023                       |            |
-| **Type**         | UnpackMe                   |            |
-| **Difficulty**   | Intermediate to Advanced   |            |
-| **Features**     | Anti Debug                 |            |
-| **OS**           | Tested on Windows 10       |            |
-| **Language**     | C/C++                      |            |
-| **Arch**         | x86                        |            |
+|                  |                                                                  | Notes         |
+|------------------|------------------------------------------------------------------|---------------|
+| **Release Year** | 2023                                                             |               |
+| **Type**         | UnpackMe                                                         |               |
+| **Difficulty**   | ![Very Hard](https://img.shields.io/badge/-Very%20Hard-orange)   |               |
+| **Features**     | Anti Debug                                                       | Debug Blocker |
+| **OS**           | Tested on Windows 10                                             |               |
+| **Language**     | C/C++                                                            |               |
+| **Arch**         | x86                                                              |               |  
 
 ## Screenshot
 

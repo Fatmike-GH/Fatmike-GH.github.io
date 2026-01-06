@@ -9,6 +9,15 @@ Here you can explore all my **crackmes** and view the **solutions shared by the 
 
 > **Note:** The crackmes are sorted by **time of creation**, not by difficulty.
 
+| Badge                                                          | Level         |
+|----------------------------------------------------------------|-----------|
+| ![Easy](https://img.shields.io/badge/-Easy-brightgreen)        | Easy      |
+| ![Medium](https://img.shields.io/badge/-Medium-blue)           | Medium    |
+| ![Hard](https://img.shields.io/badge/-Hard-yellow)             | Hard      |
+| ![Very Hard](https://img.shields.io/badge/-Very%20Hard-orange) | Very Hard |
+| ![Insane](https://img.shields.io/badge/-Insane-red)            | Insane    |
+| ![Nightmare](https://img.shields.io/badge/-Nightmare-black)    | Nightmare |
+
 ## Download My Crackmes
 
 You can download my crackmes from the following sites:

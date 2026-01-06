@@ -8,15 +8,15 @@ nav_order: 4
 
 ## Description
 
-|                  |                            | Notes               |
-|------------------|----------------------------|---------------------|
-| **Release Year** | 2005                       | Remake in 2024      |
-| **Type**         | KeygenMe                   |                     |
-| **Difficulty**   | Beginner to Intermediate   |                     |
-| **Features**     | Anti Patch                 | Self Modifying Code |
-| **OS**           | Tested on Windows 10       |                     |
-| **Language**     | C/C++                      |                     |
-| **Arch**         | x86                        |                     |
+|                  |                                                        | Notes               |
+|------------------|--------------------------------------------------------|---------------------|
+| **Release Year** | 2005                                                   | Remake in 2024      |
+| **Type**         | KeygenMe                                               |                     |
+| **Difficulty**   | ![Medium](https://img.shields.io/badge/-Medium-blue)   |                     |
+| **Features**     | Anti Patch                                             | Self Modifying Code |
+| **OS**           | Tested on Windows 10                                   |                     |
+| **Language**     | C/C++                                                  |                     |
+| **Arch**         | x86                                                    |                     |
 
 ## Screenshot
 

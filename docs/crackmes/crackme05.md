@@ -8,15 +8,15 @@ nav_order: 8
 
 ## Description
 
-|                  |                            | Notes                                            |
-|------------------|----------------------------|--------------------------------------------------|
-| **Release Year** | 2024                       |                                                  |
-| **Type**         | UnpackMe                   |                                                  |
-| **Difficulty**   | Intermediate to Advanced   |                                                  |
-| **Features**     | Anti Debug                 | Has to be started from Windows Explorer          |
-| **OS**           | Tested on Windows 10       |                                                  |
-| **Language**     | C/C++                      |                                                  |
-| **Arch**         | x86                        |                                                  |
+|                  |                                                                  | Notes                                                                        |
+|------------------|------------------------------------------------------------------|------------------------------------------------------------------------------|
+| **Release Year** | 2024                                                             |  Has to be started from Windows Explorer                                     |
+| **Type**         | UnpackMe                                                         |                                                                              |
+| **Difficulty**   | ![Very Hard](https://img.shields.io/badge/-Very%20Hard-orange)   |                                                                              |
+| **Features**     | Anti Debug                                                       | Uses my [Just-In-Time Decrypter](https://github.com/Fatmike-GH/JitDecrypter) |
+| **OS**           | Tested on Windows 10                                             |                                                                              |
+| **Language**     | C/C++                                                            |                                                                              |
+| **Arch**         | x86                                                              |                                                                              |
 
 ## Screenshot
 

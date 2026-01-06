@@ -8,25 +8,25 @@ nav_order: 10
 
 ## Description
 
-|                  |                            | Notes                                                                                   |
-|------------------|----------------------------|-----------------------------------------------------------------------------------------|
-| **Release Year** | 2025                       |                                                                                         |
-| **Type**         | UnpackMe                   |                                                                                         |
-| **Difficulty**   | Advanced to Expert         |                                                                                         |
-| **Features**     | Anti Debug                 |                                                                                         |
-|                  | Anti Tamper                |                                                                                         |
-|                  | Stolen Bytes               |                                                                                         |
-|                  | IAT Redirection            |                                                                                         |
-|                  | Nanomites                  | Uses my [Nanomites](https://github.com/Fatmike-GH/Nanomites) implementation             |
-|                  | Static Code Obfuscation    |                                                                                         |
-|                  | Encryption                 | Well known cyphers as well as a self made cypher                                        |
-|                  | Encrypted Sections         |                                                                                         |
-|                  | JIT Code Decryption        | Uses my [Just-In-Time Decrypter](https://github.com/Fatmike-GH/JitDecrypter)            |
-|                  | Encrypted strings          |                                                                                         |
-|                  | Data Compression           |                                                                                         |
-| **OS**           | Tested on Windows 10       |                                                                                         |
-| **Language**     | C/C++                      |                                                                                         |
-| **Arch**         | x86                        |                                                                                         |
+|                  |                                                     | Notes                                                                                   |
+|------------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------|
+| **Release Year** | 2025                                                |                                                                                         |
+| **Type**         | UnpackMe                                            |                                                                                         |
+| **Difficulty**   | ![Insane](https://img.shields.io/badge/-Insane-red) |                                                                                         |
+| **Features**     | Anti Debug                                          |                                                                                         |
+|                  | Anti Tamper                                         |                                                                                         |
+|                  | Stolen Bytes                                        |                                                                                         |
+|                  | IAT Redirection                                     |                                                                                         |
+|                  | Nanomites                                           | Uses my [Nanomites](https://github.com/Fatmike-GH/Nanomites) implementation             |
+|                  | Static Code Obfuscation                             |                                                                                         |
+|                  | Encryption                                          | Well known cyphers as well as a self made cypher                                        |
+|                  | Encrypted Sections                                  |                                                                                         |
+|                  | JIT Code Decryption                                 | Uses my [Just-In-Time Decrypter](https://github.com/Fatmike-GH/JitDecrypter)            |
+|                  | Encrypted strings                                   |                                                                                         |
+|                  | Data Compression                                    |                                                                                         |
+| **OS**           | Tested on Windows 10                                |                                                                                         |
+| **Language**     | C/C++                                               |                                                                                         |
+| **Arch**         | x86                                                 |                                                                                         |
 
 ## Screenshot
 

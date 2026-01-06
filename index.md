@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# Fatmike's Blog
+# Fatmike-GH's Blog
 
 Welcome! This site showcases my **GitHub projects**, primarily centered on reverse engineering for learning, experimentation, and focused implementations. They’re a great starting point if you want to explore these concepts or build your own projects.
 

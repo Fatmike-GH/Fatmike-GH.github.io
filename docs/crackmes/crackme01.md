@@ -24,7 +24,7 @@ nav_order: 4
 
 ## Solutions
 
-| Solver    | Year | Download                                                                         | Note                                                                                                          |
+| Solver    | Year | Download                                                                         | Notes                                                                                                         |
 |-----------|------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | jE!       | 2005 | [crackmes.one](https://crackmes.one/crackme/5ab77f5533c5d40ad448c21f)            | The solution is based on the original version from 2005                                                       |
 | bkslash   | 2005 | [crackmes.one](https://crackmes.one/crackme/5ab77f5533c5d40ad448c21d)            | The solution is based on the original version from 2005                                                       |

@@ -24,7 +24,7 @@ nav_order: 5
 
 ## Solutions
 
-| Solver        | Year | Download                                                                         | Note                                                                                                          |
+| Solver        | Year | Download                                                                         | Notes                                                                                                         |
 |---------------|------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | Parasyte      | 2005 | [crackmes.one](https://crackmes.one/crackme/5ab77f5533c5d40ad448c21c)            | The solution is based on the original version from 2005                                                       |
 | NoRpiUs       | 2005 | [crackmes.one](https://crackmes.one/crackme/5ab77f5533c5d40ad448c21c)            | The solution is based on the original version from 2005                                                       |

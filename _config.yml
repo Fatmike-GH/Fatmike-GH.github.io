@@ -7,6 +7,9 @@ baseurl: ""
 repository: Fatmike-GH/Fatmike-GH.github.io # for github-metadata
 permalink: pretty
 
+include:
+  - docs
+  
 defaults:
   - scope:
       path: "" # an empty string here means all files in the project docs

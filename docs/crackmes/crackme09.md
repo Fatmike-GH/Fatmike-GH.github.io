@@ -8,21 +8,21 @@ nav_order: 12
 
 ## Description
 
-|                  |                                                                | Notes                                                                                   |
-|------------------|----------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| **Release Year** | 2026                                                           | crackmes.one CTF 2026                                                                   |
-| **Type**         | KeygenMe                                                       |                                                                                         |
-| **Difficulty**   | ![Very Hard](https://img.shields.io/badge/-Very%20Hard-orange) |                                                                                         |
-| **Features**     | Anti Debug                                                     |                                                                                         |
-|                  | Anti Tamper                                                    |                                                                                         |
-|                  | Hidden APIs                                                    |                                                                                         |
-|                  | IAT Hooking                                                    |                                                                                         |
-|                  | JIT Code Decryption                                            | Uses my [Just-In-Time Decrypter](https://github.com/Fatmike-GH/JitDecrypter)            |
-|                  | Nanomites                                                      | Uses my [Nanomites](https://github.com/Fatmike-GH/Nanomites) implementation             |
-|                  | Static Code Obfuscation                                        |                                                                                         |
-| **OS**           | Tested on Windows 10/11                                        |                                                                                         |
-| **Language**     | C/C++                                                          |                                                                                         |
-| **Arch**         | x86                                                            |                                                                                         |
+|                  |                                                                | Notes                                                                                         |
+|------------------|----------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| **Release Year** | 2026                                                           | crackmes.one CTF 2026                                                                         |
+| **Type**         | KeygenMe                                                       |                                                                                               |
+| **Difficulty**   | ![Very Hard](https://img.shields.io/badge/-Very%20Hard-orange) |                                                                                               |
+| **Features**     | Anti Debug                                                     |                                                                                               |
+|                  | Anti Tamper                                                    |                                                                                               |
+|                  | Hidden APIs                                                    |                                                                                               |
+|                  | IAT Hooking                                                    |                                                                                               |
+|                  | JIT Code Decryption                                            | Uses a variation of my [Just-In-Time Decrypter](https://github.com/Fatmike-GH/JitDecrypter)   |
+|                  | Nanomites                                                      | Uses a variation of my [Nanomites](https://github.com/Fatmike-GH/Nanomites) implementation    |
+|                  | Static Code Obfuscation                                        |                                                                                               |
+| **OS**           | Tested on Windows 10/11                                        |                                                                                               |
+| **Language**     | C/C++                                                          |                                                                                               |
+| **Arch**         | x86                                                            |                                                                                               |
 
 ## Screenshot
 

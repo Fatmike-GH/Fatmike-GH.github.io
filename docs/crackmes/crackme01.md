@@ -32,6 +32,7 @@ nav_order: 4
 | ribbon           | 2024 | [crackmy.app](https://crackmy.app/crackmes/fatmike-s-crackme-1-by-fatmike-70465) | The solution is based on the remake from 2024                                                                 |
 | Peter Den Hartog | 2024 | [fewstreet.com](https://fewstreet.com/2024/10/22/reverse-engineering-crackme-with-ghidra.html) | The solution is based on the remake from 2024                                                   |
 | AI               | 2025 | [download](/solutions/01/MCP_Debugger_Claude_Opus_4_5.zip)                       | The crackme was solved using my [MCP Debugger](https://github.com/Fatmike-GH/MCPDebugger) and Claude Opus 4.5 |
+| Yves Bonneau     | 2026 | [yvesb.page](https://yvesb.page/write-ups/crackmes/fatmike/crackme-1/)           | The solution is based on the remake from 2024                                                                 |
 
 ## Download the Crackme
 

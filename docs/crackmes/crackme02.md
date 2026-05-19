@@ -35,6 +35,7 @@ nav_order: 5
 | CZ-DannyK     | 2024 | [crackmy.app](https://crackmy.app/crackmes/fatmike-s-crackme-2-by-fatmike-07987) | The solution is based on the remake from 2024                                                                 |
 | ribbon        | 2024 | [crackmy.app](https://crackmy.app/crackmes/fatmike-s-crackme-2-by-fatmike-07987) | The solution is based on the remake from 2024                                                                 |
 | AI            | 2025 | [download](/solutions/02/MCP_Debugger_Claude_Opus_4_5.zip)                       | The crackme was solved using my [MCP Debugger](https://github.com/Fatmike-GH/MCPDebugger) and Claude Opus 4.5 |
+| Yves Bonneau  | 2026 | [yvesb.page](https://yvesb.page/write-ups/crackmes/fatmike/crackme-2/)           | The solution is based on the remake from 2024                                                                 |
 
 ## Download the Crackme
 

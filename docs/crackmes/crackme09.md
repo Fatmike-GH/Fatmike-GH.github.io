@@ -19,7 +19,7 @@ nav_order: 12
 |                  | IAT Hooking                                                    |                                                                                               |
 |                  | JIT Code Decryption                                            | Uses a variation of my [Just-In-Time Decrypter](https://github.com/Fatmike-GH/JitDecrypter)   |
 |                  | Nanomites                                                      | Uses a variation of my [Nanomites](https://github.com/Fatmike-GH/Nanomites) implementation    |
-|                  | Static Code Obfuscation                                        |                                                                                               |
+|                  | Opaque Predicates                                              |                                                                                               |
 | **OS**           | Tested on Windows 10/11                                        |                                                                                               |
 | **Language**     | C/C++                                                          |                                                                                               |
 | **Arch**         | x86                                                            |                                                                                               |

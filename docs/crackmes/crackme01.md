@@ -1,5 +1,5 @@
 ---
-title: Fatmike's Crackme 01
+title: Fatmike's Crackme 01 ![Medium](https://img.shields.io/badge/-Medium-blue)
 parent: Crackmes
 nav_order: 4
 ---

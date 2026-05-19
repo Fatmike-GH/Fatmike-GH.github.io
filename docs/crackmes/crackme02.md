@@ -26,13 +26,13 @@ nav_order: 5
 
 | Solver        | Year | Download                                                                         | Notes                                                                                                         |
 |---------------|------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Parasyte      | 2005 | [crackmes.one](https://crackmes.one/crackme/5ab77f5533c5d40ad448c21c)            | The solution is based on the original version from 2005                                                       |
-| NoRpiUs       | 2005 | [crackmes.one](https://crackmes.one/crackme/5ab77f5533c5d40ad448c21c)            | The solution is based on the original version from 2005                                                       |
 | daVektor      | 2005 | [crackmes.one](https://crackmes.one/crackme/5ab77f5533c5d40ad448c21c)            | The solution is based on the original version from 2005                                                       |
 | MiK3_d4_kNiF3 | 2005 | [download](/solutions/02/MiK3_d4_kNiF3.zip)                                      | The solution is based on the original version from 2005                                                       |
+| NoRpiUs       | 2005 | [crackmes.one](https://crackmes.one/crackme/5ab77f5533c5d40ad448c21c)            | The solution is based on the original version from 2005                                                       |
+| Parasyte      | 2005 | [crackmes.one](https://crackmes.one/crackme/5ab77f5533c5d40ad448c21c)            | The solution is based on the original version from 2005                                                       |
+| Benbaby       | 2024 | [crackmes.one](https://crackmes.one/crackme/66f3b27b107032329655592a)            | The solution is based on the remake from 2024                                                                 |
 | CZ-DannyK     | 2024 | [crackmes.one](https://crackmes.one/crackme/66f3b27b107032329655592a)            | The solution is based on the remake from 2024                                                                 |
 | CZ-DannyK     | 2024 | [crackmy.app](https://crackmy.app/crackmes/fatmike-s-crackme-2-by-fatmike-07987) | The solution is based on the remake from 2024                                                                 |
-| Benbaby       | 2024 | [crackmes.one](https://crackmes.one/crackme/66f3b27b107032329655592a)            | The solution is based on the remake from 2024                                                                 |
 | ribbon        | 2024 | [crackmy.app](https://crackmy.app/crackmes/fatmike-s-crackme-2-by-fatmike-07987) | The solution is based on the remake from 2024                                                                 |
 | AI            | 2025 | [download](/solutions/02/MCP_Debugger_Claude_Opus_4_5.zip)                       | The crackme was solved using my [MCP Debugger](https://github.com/Fatmike-GH/MCPDebugger) and Claude Opus 4.5 |
 

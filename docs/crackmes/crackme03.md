@@ -30,8 +30,8 @@ nav_order: 6
 | Ricardo Narvaja      | 2006 | [download](/solutions/03/Ricardo_Narvaja.zip)                                    |
 | X-Treem              | 2006 | [crackmes.one](https://crackmes.one/crackme/5ab77f5533c5d40ad448c21e)            |
 | Yanderome            | 2024 | [crackmes.one](https://crackmes.one/crackme/66ef600710703232965556bc)            |
-| Yanderome            | 2024 | [crackmy.app](https://crackmy.app/crackmes/fatmike-s-crackme-3-by-fatmike-41895) |
 | ribbon               | 2024 | [crackmy.app](https://crackmy.app/crackmes/fatmike-s-crackme-3-by-fatmike-41895) |
+| Yanderome            | 2024 | [crackmy.app](https://crackmy.app/crackmes/fatmike-s-crackme-3-by-fatmike-41895) |
 
 ## Download the Crackme
 
